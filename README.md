@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 Currently learning: **DevOps, Google Cloud, CI/CD**
+
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - 📫 Email me at: **harshitgupta2782@gmail.com**
 
